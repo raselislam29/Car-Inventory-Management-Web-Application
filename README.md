@@ -1,4 +1,3 @@
-# Car-Inventory-Management-Web-Application
 Car Inventory Management Web Application
 =========================================
 
