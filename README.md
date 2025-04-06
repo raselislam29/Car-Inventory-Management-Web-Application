@@ -55,5 +55,5 @@ Important Notes:
 
 ---
 
-Thank you for reviewing my project!
+
 
