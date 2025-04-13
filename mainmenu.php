@@ -78,7 +78,7 @@ if (!isset($_SESSION['username'])) {
 
 <!-- Top Navbar -->
 <div class="navbar">
-    <img src="images/car_banner.jpg" alt="Logo">
+    <img src="logo.png" alt="Logo">
     <div class="nav-links">
         <a href="add_record.php">Add Car</a>
         <a href="list_records.php">List Cars</a>
